@@ -1,4 +1,7 @@
-# app.py - Beautiful Dashboard (Fixed Version)
+
+import nltk
+nltk.download('punkt_tab', quiet=True)
+nltk.download('stopwords', quiet=True)# app.py - Beautiful Dashboard (Fixed Version)
 import streamlit as st
 import pandas as pd
 import joblib
@@ -123,4 +126,5 @@ else:
 
 # Footer
 st.markdown("---")
+
 st.markdown("Made by Manan using Streamlit")
