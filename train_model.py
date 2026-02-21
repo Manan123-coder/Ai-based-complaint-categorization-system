@@ -1,3 +1,6 @@
+import nltk
+nltk.download('punkt_tab', quiet=True)
+nltk.download('stopwords', quiet=True)
 # train_model.py
 import pandas as pd
 from sklearn.model_selection import train_test_split
@@ -51,5 +54,6 @@ evaluate_model(y_test, lr_pred, "Logistic Regression")
 # Save the best model (Logistic Regression) and vectorizer
 joblib.dump(lr_model, 'model.pkl')
 joblib.dump(vectorizer, 'vectorizer.pkl')
+
 
 print("\n✓ Model and vectorizer saved successfully!")
