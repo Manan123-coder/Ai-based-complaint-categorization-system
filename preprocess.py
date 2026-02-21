@@ -1,3 +1,6 @@
+import nltk
+nltk.download('punkt_tab', quiet=True)
+nltk.download('stopwords', quiet=True)
 # preprocess.py
 import re
 import nltk
@@ -31,4 +34,5 @@ def preprocess_text(text):
     tokens = [stemmer.stem(word) for word in tokens]
     
     # Join back into string
+
     return ' '.join(tokens)
