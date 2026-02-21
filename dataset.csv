@@ -1,0 +1,501 @@
+complaint_text,category
+Account verification pending now,Account
+Billing dispute again,Billing
+Login issue asap,Account
+Technical support needed,Technical
+App keeps crashing now,Technical
+Account merge issue help,Account
+Account recovery needed today,Account
+Page not found soon,Technical
+Discount not applied now,Billing
+No follow up on service,Service
+I was overcharged please,Billing
+API error asap,Technical
+Service quality is poor asap,Service
+Payment not recorded today,Billing
+Login issue please,Account
+Two-factor authentication problem help,Account
+Unhelpful response,Service
+Duplicate charges on my bill,Billing
+Password reset not working today,Account
+Service quality is poor asap,Service
+Support ticket not resolved,Service
+Support ticket not resolved please,Service
+Order stuck in transit,Delivery
+Cannot update account today,Account
+Invoice not received help,Billing
+Support team not responsive now,Service
+Unhelpful response asap,Service
+Delivery took too long please,Delivery
+App keeps crashing soon,Technical
+Account access denied asap,Account
+Rude customer support,Service
+Account details not showing help,Account
+Bad service experience,Service
+Technical glitch now,Technical
+My bill is incorrect again,Billing
+Account access denied asap,Account
+Service quality is poor soon,Service
+Billing dispute,Billing
+Package delayed please,Delivery
+Charged twice for same service soon,Billing
+Username not recognized asap,Account
+Subscription charge issue soon,Billing
+Long wait time,Service
+Connection timeout,Technical
+Duplicate charges on my bill help,Billing
+Invoice not received help,Billing
+My bill is incorrect,Billing
+Billing error on my statement soon,Billing
+No response from support,Service
+Payment failed but charged soon,Billing
+Billing dispute today,Billing
+App freezes please,Technical
+App is slow today,Technical
+Service response time is bad,Service
+API error today,Technical
+Bill due date confusion,Billing
+Error message appearing asap,Technical
+Unexpected charges on my bill asap,Billing
+Order not delivered on time again,Delivery
+Invoice not received today,Billing
+Support ticket not resolved asap,Service
+Delivery address wrong help,Delivery
+Account locked again,Account
+Service request ignored now,Service
+Invoice not received please,Billing
+Refund not processed now,Billing
+No follow up on service today,Service
+Incorrect payment amount help,Billing
+Delivery driver was rude soon,Delivery
+Account merge issue please,Account
+Account information incorrect now,Account
+Login failed again,Account
+Shipment delayed asap,Delivery
+Package returned,Delivery
+Password reset not working help,Account
+Can't log in to my account please,Account
+Package not arrived now,Delivery
+Discount not applied now,Billing
+Service complaint,Service
+Service issue unresolved,Service
+System is down please,Technical
+Payment not recorded again,Billing
+Rude customer support soon,Service
+Technical glitch now,Technical
+Account locked asap,Account
+Subscription charge issue,Billing
+App freezes,Technical
+Service response time is bad soon,Service
+Account verification failed asap,Account
+Shipment delayed today,Delivery
+Username not recognized again,Account
+Dissatisfied with service now,Service
+Account verification pending again,Account
+Account locked again,Account
+Waiting too long for service soon,Service
+Account suspended asap,Account
+Wrong price charged again,Billing
+Invoice not received,Billing
+Service team unhelpful asap,Service
+Unexpected charges on my bill,Billing
+Late delivery now,Delivery
+Waiting too long for service asap,Service
+Unexpected charges on my bill again,Billing
+Account locked help,Account
+Account access denied please,Account
+Bill due date confusion soon,Billing
+Can't log in to my account asap,Account
+Delivery status not updating soon,Delivery
+Account access denied today,Account
+App is slow please,Technical
+Technical problem with account today,Technical
+Poor customer service today,Service
+Account details not showing,Account
+Bill amount is wrong,Billing
+Support team not responsive asap,Service
+Order stuck in transit again,Delivery
+Late delivery help,Delivery
+Delivery driver was rude soon,Delivery
+Login page error now,Technical
+Billing inquiry please,Billing
+Package lost,Delivery
+Page loading error today,Technical
+Account locked,Account
+System is down now,Technical
+Order not received today,Delivery
+Delivery status not updating now,Delivery
+No response from support again,Service
+Order not delivered on time today,Delivery
+Server error now,Technical
+Profile update issue again,Account
+Duplicate charges on my bill asap,Billing
+Technical issue with website today,Technical
+Dissatisfied with service,Service
+Delivery problem now,Delivery
+Bug in the system,Technical
+Bill due date confusion now,Billing
+API error please,Technical
+Payment failed but charged soon,Billing
+Unexpected charges on my bill help,Billing
+Package not arrived,Delivery
+Discount not applied please,Billing
+Package delayed please,Delivery
+Rude customer support again,Service
+Subscription charge issue now,Billing
+Delivery pending help,Delivery
+Package not arrived today,Delivery
+Payment failed but charged again,Billing
+Package lost now,Delivery
+Delivery address wrong help,Delivery
+Service not satisfactory help,Service
+I was overcharged,Billing
+Login page error soon,Technical
+Incorrect payment amount,Billing
+Unexpected charges on my bill please,Billing
+Support team not responsive please,Service
+Cannot update account today,Account
+My bill is incorrect asap,Billing
+Wrong item delivered today,Delivery
+Service quality is poor,Service
+Charged twice for same service,Billing
+Technical issue with website,Technical
+Password reset not working today,Account
+Service not satisfactory please,Service
+Bill amount is wrong today,Billing
+Service team unhelpful now,Service
+Dissatisfied with service asap,Service
+Bill amount is wrong now,Billing
+I was overcharged please,Billing
+No follow up on service soon,Service
+Website not loading help,Technical
+Refund not processed please,Billing
+Technical support needed asap,Technical
+Long wait time asap,Service
+Login page error again,Technical
+Technical issue with website today,Technical
+Page loading error,Technical
+Login issue asap,Account
+App freezes now,Technical
+Bug in the system asap,Technical
+Account security concern soon,Account
+Account merge issue,Account
+Software bug,Technical
+Customer service is slow now,Service
+Shipment delayed,Delivery
+No follow up on service again,Service
+Bug in the system soon,Technical
+Account security concern,Account
+Discount not applied please,Billing
+Delivery took too long,Delivery
+Website crash asap,Technical
+Support ticket not resolved help,Service
+Account recovery needed,Account
+Customer service is slow,Service
+Delivery problem today,Delivery
+Website not loading now,Technical
+Late delivery asap,Delivery
+Error message appearing,Technical
+Subscription charge issue please,Billing
+System is down asap,Technical
+Account security concern help,Account
+Service issue unresolved soon,Service
+Payment not recorded asap,Billing
+Late delivery,Delivery
+Website crash,Technical
+App not working please,Technical
+Software bug asap,Technical
+Delivery status not updating again,Delivery
+Billing dispute today,Billing
+Rude customer support today,Service
+Cannot update account today,Account
+Delivery pending,Delivery
+Login page error soon,Technical
+Account verification failed,Account
+Delivery rescheduled today,Delivery
+Order missing,Delivery
+Account information incorrect now,Account
+Email not updated in account please,Account
+Delivery status not updating,Delivery
+Account information incorrect please,Account
+Order not received now,Delivery
+Username not recognized now,Account
+Delivery problem now,Delivery
+Refund not processed now,Billing
+Software bug asap,Technical
+Technical problem with account soon,Technical
+Account verification pending soon,Account
+Package damaged help,Delivery
+Service team unhelpful please,Service
+Delivery not completed today,Delivery
+Bill due date confusion today,Billing
+Technical issue with website help,Technical
+Wrong price charged please,Billing
+Service team unhelpful please,Service
+I was overcharged help,Billing
+Account verification pending,Account
+Account suspended now,Account
+Account details not showing today,Account
+Technical support needed now,Technical
+System is down,Technical
+Page loading error please,Technical
+Account merge issue help,Account
+App freezes today,Technical
+Service request pending help,Service
+Billing error on my statement,Billing
+Username not recognized,Account
+App keeps crashing asap,Technical
+Payment not recorded soon,Billing
+Refund not processed asap,Billing
+Account verification failed soon,Account
+Website crash now,Technical
+Service issue unresolved asap,Service
+Delivery rescheduled again,Delivery
+Dissatisfied with service today,Service
+Software bug now,Technical
+Delivery rescheduled please,Delivery
+No response from support please,Service
+Error message appearing now,Technical
+Account merge issue again,Account
+Error message appearing again,Technical
+Service request pending soon,Service
+Delivery not completed now,Delivery
+Page not found please,Technical
+Account security concern help,Account
+Billing clarification needed today,Billing
+Bug in the system help,Technical
+Delivery driver was rude today,Delivery
+Bad service experience now,Service
+Billing clarification needed soon,Billing
+Service quality is poor please,Service
+Page not found help,Technical
+App freezes now,Technical
+Order not delivered on time again,Delivery
+Late delivery help,Delivery
+Account balance not updating,Account
+Delivery rescheduled soon,Delivery
+Account information incorrect today,Account
+Two-factor authentication problem today,Account
+Email not updated in account,Account
+Order stuck in transit today,Delivery
+Server error,Technical
+Can't log in to my account please,Account
+Package lost again,Delivery
+No response from support help,Service
+Wrong item delivered today,Delivery
+Server error please,Technical
+Poor customer service,Service
+Delivery not completed today,Delivery
+Bad service experience soon,Service
+Account recovery needed now,Account
+Package returned help,Delivery
+Cannot update account,Account
+Package returned again,Delivery
+Email not updated in account please,Account
+Login failed,Account
+Technical issue with website again,Technical
+Page loading error now,Technical
+Account balance not updating help,Account
+Waiting too long for service soon,Service
+Long wait time soon,Service
+Service request ignored soon,Service
+Poor customer service today,Service
+Order not received now,Delivery
+Account verification failed again,Account
+App not working soon,Technical
+Technical problem with account asap,Technical
+Software bug again,Technical
+Order missing asap,Delivery
+Order not received please,Delivery
+Login page error,Technical
+Page not found,Technical
+Account suspended again,Account
+Package lost now,Delivery
+Customer service is slow help,Service
+Email not updated in account please,Account
+Server error again,Technical
+Delivery not completed,Delivery
+Service response time is bad now,Service
+Website not loading again,Technical
+Login issue,Account
+Profile update issue,Account
+App is slow asap,Technical
+No follow up on service soon,Service
+Billing inquiry again,Billing
+Support team not responsive,Service
+Discount not applied,Billing
+Order stuck in transit soon,Delivery
+Wrong price charged,Billing
+Package damaged asap,Delivery
+Connection timeout today,Technical
+Username not recognized asap,Account
+Technical support needed again,Technical
+Billing error on my statement today,Billing
+Refund not processed,Billing
+Bill amount is wrong again,Billing
+Technical glitch,Technical
+Bug in the system asap,Technical
+Email not updated in account today,Account
+Login failed now,Account
+Package lost asap,Delivery
+Billing clarification needed,Billing
+Pending bill payment now,Billing
+Package damaged,Delivery
+Service request ignored please,Service
+Account recovery needed please,Account
+Page loading error help,Technical
+Billing inquiry now,Billing
+Unhelpful response soon,Service
+Poor customer service please,Service
+Package delayed again,Delivery
+Order stuck in transit asap,Delivery
+Delivery pending asap,Delivery
+Service response time is bad today,Service
+My bill is incorrect soon,Billing
+Order missing again,Delivery
+Service request pending now,Service
+App keeps crashing,Technical
+Delivery status not updating please,Delivery
+Service not satisfactory today,Service
+Delivery took too long please,Delivery
+Technical glitch asap,Technical
+Billing clarification needed please,Billing
+Package returned please,Delivery
+Wrong item delivered,Delivery
+Charged twice for same service today,Billing
+Incorrect payment amount help,Billing
+Duplicate charges on my bill again,Billing
+Package not arrived again,Delivery
+Profile update issue again,Account
+Order not delivered on time,Delivery
+Service request pending help,Service
+Bill amount is wrong today,Billing
+Poor customer service again,Service
+Order not received,Delivery
+Delivery address wrong,Delivery
+Delivery not completed help,Delivery
+App not working today,Technical
+Service not satisfactory,Service
+Technical problem with account help,Technical
+Charged twice for same service asap,Billing
+Technical problem with account,Technical
+Server error today,Technical
+Rude customer support again,Service
+I was overcharged asap,Billing
+Profile update issue please,Account
+Support team not responsive help,Service
+Charged twice for same service help,Billing
+Can't log in to my account,Account
+Billing error on my statement today,Billing
+Technical support needed soon,Technical
+Billing inquiry,Billing
+Account recovery needed asap,Account
+Service issue unresolved again,Service
+Customer service is slow again,Service
+Wrong item delivered help,Delivery
+Shipment delayed please,Delivery
+Waiting too long for service please,Service
+Waiting too long for service,Service
+Account details not showing today,Account
+Delivery driver was rude now,Delivery
+Package delayed help,Delivery
+Delivery took too long today,Delivery
+Delivery rescheduled,Delivery
+Service complaint now,Service
+Delivery pending help,Delivery
+Long wait time please,Service
+Long wait time again,Service
+Can't log in to my account asap,Account
+Account information incorrect,Account
+Package not arrived please,Delivery
+Order not delivered on time soon,Delivery
+App not working help,Technical
+Billing inquiry help,Billing
+Wrong item delivered soon,Delivery
+Customer service is slow again,Service
+API error,Technical
+Account balance not updating asap,Account
+Order missing today,Delivery
+Website not loading,Technical
+Pending bill payment now,Billing
+Two-factor authentication problem again,Account
+My bill is incorrect soon,Billing
+Bad service experience soon,Service
+Service request ignored again,Service
+Incorrect payment amount now,Billing
+No response from support again,Service
+Payment not recorded,Billing
+Package delayed,Delivery
+Duplicate charges on my bill again,Billing
+Delivery address wrong soon,Delivery
+Service not satisfactory please,Service
+Account security concern asap,Account
+Subscription charge issue soon,Billing
+Account details not showing help,Account
+Dissatisfied with service again,Service
+Pending bill payment today,Billing
+Account suspended,Account
+Delivery address wrong again,Delivery
+Package damaged now,Delivery
+Billing error on my statement please,Billing
+Password reset not working,Account
+Wrong price charged please,Billing
+Two-factor authentication problem again,Account
+Delivery problem now,Delivery
+Website crash asap,Technical
+Profile update issue help,Account
+Support ticket not resolved help,Service
+App is slow help,Technical
+Account balance not updating soon,Account
+Service request ignored,Service
+Password reset not working asap,Account
+Package damaged help,Delivery
+Pending bill payment again,Billing
+Account verification pending soon,Account
+Pending bill payment,Billing
+Service complaint today,Service
+Technical glitch help,Technical
+Service request pending,Service
+Connection timeout again,Technical
+Unhelpful response asap,Service
+Connection timeout help,Technical
+Website crash please,Technical
+Bill due date confusion soon,Billing
+Incorrect payment amount soon,Billing
+Login failed now,Account
+Delivery driver was rude,Delivery
+Delivery pending please,Delivery
+Payment failed but charged again,Billing
+Account verification failed today,Account
+Service complaint please,Service
+App not working,Technical
+Shipment delayed please,Delivery
+Bad service experience help,Service
+API error now,Technical
+Two-factor authentication problem,Account
+Package returned today,Delivery
+Service response time is bad again,Service
+Login failed help,Account
+Order missing today,Delivery
+Account balance not updating again,Account
+Error message appearing please,Technical
+App is slow,Technical
+System is down help,Technical
+Cannot update account please,Account
+Billing clarification needed please,Billing
+Login issue soon,Account
+Wrong price charged please,Billing
+Service complaint asap,Service
+Account access denied,Account
+Delivery took too long asap,Delivery
+Service issue unresolved asap,Service
+Page not found help,Technical
+Unhelpful response today,Service
+Payment failed but charged,Billing
+Connection timeout soon,Technical
+Billing dispute today,Billing
+Website not loading please,Technical
+Delivery problem,Delivery
+Account suspended help,Account
+Service team unhelpful,Service
+App keeps crashing asap,Technical
